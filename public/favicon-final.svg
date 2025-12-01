@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#F0E68C" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Simplified B for favicon -->
+  <path d="M30 25 L30 75" stroke="url(#goldGradient)" stroke-width="8" stroke-linecap="round" />
+  <path d="M30 25 Q55 25 60 40 Q65 55 50 55 Q65 55 65 75" stroke="url(#goldGradient)" stroke-width="8" fill="none" stroke-linecap="round" />
+</svg>

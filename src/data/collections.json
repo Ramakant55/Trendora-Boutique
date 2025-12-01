@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Women Wear",
+    "image": "https://images.unsplash.com/photo-1760551937420-f34b764b1256?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RWxlZ2FudCUyMGFuZCUyMGZhc2hpb25hYmxlJTIwd2VhciUyMGZvciUyMHdvbWVufGVufDB8fDB8fHww",
+    "description": "Elegant and fashionable wear for women"
+  },
+  {
+    "id": 2,
+    "name": "Men Wear",
+    "image": "https://plus.unsplash.com/premium_photo-1733701621157-0a5b7d168a7f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3R5bGlzaCUyMGNsb3RoaW5nJTIwZm9yJTIwbWVufGVufDB8fDB8fHww",
+    "description": "Stylish clothing for men"
+  },
+  {
+    "id": 3,
+    "name": "Kids Wear",
+    "image": "https://plus.unsplash.com/premium_photo-1663091456169-e023f82f602c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEFkb3JhYmxlJTIwb3V0Zml0cyUyMGZvciUyMGtpZHN8ZW58MHx8MHx8fDA%3D",
+    "description": "Adorable outfits for kids"
+  },
+  {
+    "id": 4,
+    "name": "Sarees",
+    "image": "https://images.unsplash.com/photo-1745482037606-910f4f6a0bca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fFRyYWRpdGlvbmFsJTIwYW5kJTIwY29udGVtcG9yYXJ5JTIwc2FyZWVzfGVufDB8fDB8fHww",
+    "description": "Traditional and contemporary sarees"
+  },
+  {
+    "id": 5,
+    "name": "Lehenga",
+    "image": "https://images.unsplash.com/photo-1668371679302-a8ec781e876e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8QmVhdXRpZnVsJTIwbGVoZW5nYXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Beautiful lehengas for special occasions"
+  },
+  {
+    "id": 6,
+    "name": "Western Wear",
+    "image": "https://images.unsplash.com/photo-1687081229247-4326adc3346f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fFRyZW5keSUyMHdlc3Rlcm4lMjBvdXRmaXRzJTIwZm9yJTIwdGhlJTIwbW9kZXJuJTIwd29tYW58ZW58MHx8MHx8fDA%3D",
+    "description": "Trendy western outfits for the modern woman"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis",
+    "image": "https://images.unsplash.com/photo-1745313452052-0e4e341f326c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RGVzaWduZXIlMjBrdXJ0aXN8ZW58MHx8MHx8fDA%3D",
+    "description": "Designer kurtis for every occasion"
+  },
+  {
+    "id": 8,
+    "name": "Party Wear",
+    "image": "https://plus.unsplash.com/premium_photo-1661607657973-3a7840f8d99d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8R2xhbW9yb3VzJTIwb3V0Zml0cyUyMGZvciUyMHBhcnRpZXMlMjBhbmQlMjBjZWxlYnJhdGlvbnN8ZW58MHx8MHx8fDA%3D",
+    "description": "Glamorous outfits for parties and celebrations"
+  },
+  {
+    "id": 9,
+    "name": "Bridal Wear",
+    "image": "https://images.unsplash.com/photo-1762201825597-46e821d7ab28?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fEV4cXVpc2l0ZSUyMGJyaWRhbCUyMHdlYXJ8ZW58MHx8MHx8fDA%3D",
+    "description": "Exquisite bridal wear for your special day"
+  },
+  {
+    "id": 10,
+    "name": "Customized Dresses",
+    "image": "https://images.unsplash.com/photo-1729774098203-6c2bb2735082?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fFBlcnNvbmFsaXplZCUyMGRyZXNzZXMlMjB0YWlsb3JlZHxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Personalized dresses tailored to your preferences"
+  },
+  {
+    "id": 11,
+    "name": "Jewelry",
+    "image": "https://plus.unsplash.com/premium_photo-1740020265541-85563190b375?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fEVhcnJpbmdzJTJDJTIwbmVja2xhY2VzJTJDJTIwYmFuZ2xlcyUyMGFuZCUyMG1vcmV8ZW58MHx8MHx8fDA%3D",
+    "description": "Earrings, necklaces, bangles and more"
+  },
+  {
+    "id": 12,
+    "name": "Handbags / Clutches",
+    "image": "https://images.unsplash.com/photo-1589318974996-73ea72d32ef6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3R5bGlzaCUyMGhhbmRiYWdzJTIwYW5kJTIwY2x1dGNoZXMlMjBmb3IlMjBldmVyeSUyMG9jY2FzaW9ufGVufDB8fDB8fHww",
+    "description": "Stylish handbags and clutches for every occasion"
+  },
+  {
+    "id": 13,
+    "name": "Footwear",
+    "image": "https://plus.unsplash.com/premium_photo-1673884222251-204bd3ac9358?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxEZXNpZ25lciUyMGZvb3R3ZWFyJTIwZm9yJTIwbWVuJTIwYW5kJTIwd29tZW58ZW58MHx8MHx8fDA%3D",
+    "description": "Designer footwear for men and women"
+  },
+  {
+    "id": 14,
+    "name": "Hair Accessories",
+    "image": "https://plus.unsplash.com/premium_photo-1661645518910-4b40fe03349c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fEJlYXV0aWZ1bCUyMGhhaXIlMjBhY2Nlc3Nvcmllc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Beautiful hair accessories for all styles"
+  },
+  {
+    "id": 15,
+    "name": "Belts",
+    "image": "https://images.unsplash.com/photo-1729774091788-895834432680?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fERlc2lnbmVyJTIwYmVsdHMlMjB0byUyMGNvbXBsZW1lbnQlMjB5b3VyJTIwb3V0Zml0fGVufDB8fDB8fHww",
+    "description": "Designer belts to complement your outfit"
+  },
+  {
+    "id": 16,
+    "name": "Scarves",
+    "image": "https://plus.unsplash.com/premium_photo-1695604461350-70d97106483a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEVsZWdhbnQlMjBzY2FydmVzJTIwZm9yJTIwc3R5bGUlMjBhbmQlMjBjb21mb3J0fGVufDB8fDB8fHww",
+    "description": "Elegant scarves for style and comfort"
+  }
+]

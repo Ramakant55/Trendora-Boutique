@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sophia Williams",
+    "role": "Fashion Blogger",
+    "content": "The quality and craftsmanship of the pieces here are exceptional. I've never felt more confident and stylish!",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976&auto=format&fit=crop",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Emma Johnson",
+    "role": "Style Influencer",
+    "content": "This boutique has completely transformed my wardrobe. Every piece is unique and makes me stand out.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1976&auto=format&fit=crop",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Olivia Parker",
+    "role": "Celebrity Stylist",
+    "content": "As a stylist, I'm very particular about quality. This boutique exceeds all my expectations with their selection.",
+    "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1998&auto=format&fit=crop",
+    "rating": 5
+  }
+]

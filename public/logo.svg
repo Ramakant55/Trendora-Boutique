@@ -1,0 +1,34 @@
+<svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37" />
+      <stop offset="50%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#F0E68C" />
+    </linearGradient>
+    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" />
+      <feOffset dx="2" dy="2" result="offsetblur" />
+      <feFlood flood-color="rgba(0,0,0,0.3)" />
+      <feComposite in2="offsetblur" operator="in" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Outer circle with shadow -->
+  <circle cx="50" cy="50" r="45" stroke="url(#goldGradient)" stroke-width="3" fill="none" filter="url(#dropShadow)" />
+  
+  <!-- Letter B stylized with gradient -->
+  <path d="M30 25 L30 75" stroke="url(#goldGradient)" stroke-width="5" stroke-linecap="round" />
+  <path d="M30 25 Q50 25 55 35 Q60 45 55 50 Q60 55 55 65 Q50 75 30 75" stroke="url(#goldGradient)" stroke-width="5" fill="none" stroke-linecap="round" />
+  
+  <!-- Decorative elements -->
+  <circle cx="45" cy="35" r="3" fill="url(#goldGradient)" />
+  <circle cx="45" cy="65" r="3" fill="url(#goldGradient)" />
+  
+  <!-- Small accent circles -->
+  <circle cx="65" cy="25" r="1.5" fill="url(#goldGradient)" />
+  <circle cx="65" cy="75" r="1.5" fill="url(#goldGradient)" />
+</svg>
